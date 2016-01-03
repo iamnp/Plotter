@@ -1,0 +1,9 @@
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\Plotter\bin\Debug\Plotter.exe
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\Plotter\bin\Debug\Plotter.pdb
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\Plotter\obj\Debug\Plotter.AboutForm.resources
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\Plotter\obj\Debug\Plotter.MainForm.resources
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\Plotter\obj\Debug\Plotter.MyTrackBar.resources
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\Plotter\obj\Debug\Plotter.Properties.Resources.resources
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\Plotter\obj\Debug\Plotter.csproj.GenerateResource.Cache
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\Plotter\obj\Debug\Plotter.exe
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\Plotter\obj\Debug\Plotter.pdb

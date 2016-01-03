@@ -1,0 +1,9 @@
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\PlotterTest\bin\Debug\PlotterTest.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\PlotterTest\bin\Debug\PlotterTest.pdb
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\PlotterTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\PlotterTest\bin\Debug\Plotter.exe
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\PlotterTest\bin\Debug\Plotter.pdb
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\PlotterTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\PlotterTest\obj\Debug\PlotterTest.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\PlotterTest\obj\Debug\PlotterTest.dll
+C:\Users\Никита\Documents\Visual Studio 2015\Projects\Plotter\PlotterTest\obj\Debug\PlotterTest.pdb
